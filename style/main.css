@@ -566,10 +566,10 @@ Drop the image in the participants folder and link to either the png or jpg vers
   background: url("../images/participants/carson-sievert.jpg") no-repeat;
   background-size: cover; }            
 
-/*.jessie-roberts .participant-image{
-  background: url("../images/participants/jessie-roberts.jpg") no-repeat;
+.miles-mcbain .participant-image{
+  background: url("../images/participants/miles-mcbain.jpg") no-repeat;
   background-size: cover; }            
-*/
+
 
 /*.jessie-roberts .participant-image{
   background: url("../images/participants/jessie-roberts.jpg") no-repeat;
