@@ -562,7 +562,25 @@ Drop the image in the participants folder and link to either the png or jpg vers
   background: url("../images/participants/jessie-roberts.jpg") no-repeat;
   background-size: cover; }            
 
+.carson-sievert .participant-image{
+  background: url("../images/participants/carson-sievert.jpg") no-repeat;
+  background-size: cover; }            
 
+/*.jessie-roberts .participant-image{
+  background: url("../images/participants/jessie-roberts.jpg") no-repeat;
+  background-size: cover; }            
+*/
+
+/*.jessie-roberts .participant-image{
+  background: url("../images/participants/jessie-roberts.jpg") no-repeat;
+  background-size: cover; }            
+*/
+
+
+/*.jessie-roberts .participant-image{
+  background: url("../images/participants/jessie-roberts.jpg") no-repeat;
+  background-size: cover; }            
+*/
 
 .setting img {
   width: 100%; }
