@@ -166,11 +166,11 @@ section {
     float: left; } }
 
 .title-col {
-  margin-bottom: 4rem; }
+  margin: 2rem 0; }
   @media only screen and (min-width: 960px) {
     .title-col {
       width: 56rem;
-      margin: 0 auto 8rem; } }
+      margin: 0 auto 4rem; } }
   @media only screen and (min-width: 1100px) {
     .title-col {
       width: 38rem; } }
@@ -270,7 +270,8 @@ p.byline-other {
   font-weight: 700;
   font-size: 400%;
   width: 20rem;
-  margin: 0rem auto 2rem; }
+  margin: 0rem auto 2rem;
+  padding: 2rem 0 0 0;}
   @media only screen and (min-width: 700px) {
     .byline {
       width: 100%; } }
@@ -283,6 +284,7 @@ p.byline-other {
 .byline-italic {
   font-style: italic;
   font-size: 110%;
+  padding: 1rem 0;
 }
 
 .byline-other {
@@ -542,6 +544,11 @@ font-weight: 700;
   margin-top: 20px;
   margin-bottom: 5px;
 }
+
+.further-col p {
+  margin-top: 1rem;
+  margin-bottom: 5px;
+}
 /*end applications*/
 
 
@@ -584,6 +591,11 @@ Drop the image in the participants folder and link to either the png or jpg vers
 
 .setting img {
   width: 100%; }
+
+.schedule-wrap{
+    margin-top: 0;
+    margin-bottom:0;
+    padding: 2rem 0;}
 
 .schedule-wrap .further-col {
   width: 100%;
@@ -880,11 +892,10 @@ Drop the image in the participants folder and link to either the png or jpg vers
     height: 100%; } }
 @media only screen and (min-width: 700px) {
   .sponsors {
+    padding-top: 2rem;
     margin-bottom: 6.5rem; } }
 
 .sponsors h2 {
-  font-size: 120%;
-  font-weight: 600;
   margin-bottom: 10px;
   margin-top: 10px;
   font-family: 'Montserrat', sans-serif;
@@ -955,7 +966,7 @@ footer {
 }
 
 .links .further-col {
-  padding-top: 6rem; }
+  padding-top: 2rem; }
 
 .links li {
   float: left;
