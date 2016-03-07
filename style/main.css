@@ -586,16 +586,65 @@ Drop the image in the participants folder and link to either the png or jpg vers
   background-size: cover; }            
 
 
-/*.jessie-roberts .participant-image{
-  background: url("../images/participants/jessie-roberts.jpg") no-repeat;
+.heike-hoffman .participant-image{
+  background: url("../images/participants/heike-hoffman.jpg") no-repeat;
+  background-size: cover; }            
+
+
+.andrew-robinson .participant-image{
+  background: url("../images/participants/andrew-robinson.jpg") no-repeat;
+  background-size: cover; }            
+
+.zoe-van-havre .participant-image{
+  background: url("../images/participants/zoe-van-havre.jpg") no-repeat;
+  background-size: cover; }            
+
+
+.thomas-lumley .participant-image{
+  background: url("../images/participants/thomas-lumley.jpg") no-repeat;
+  background-size: cover; }            
+
+
+.sam-clifford .participant-image{
+  background: url("../images/participants/sam-clifford.png") no-repeat;
+  background-size: cover; }            
+
+
+.di-cook .participant-image{
+  background: url("../images/participants/di-cook.jpg") no-repeat;
+  background-size: cover; }            
+
+
+/*.firstname-lastname .participant-image{
+  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
   background-size: cover; }            
 */
 
-
-/*.jessie-roberts .participant-image{
-  background: url("../images/participants/jessie-roberts.jpg") no-repeat;
+/*.firstname-lastname .participant-image{
+  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
   background-size: cover; }            
 */
+
+/*.firstname-lastname .participant-image{
+  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
+  background-size: cover; }            
+*/
+
+/*.firstname-lastname .participant-image{
+  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
+  background-size: cover; }            
+*/
+
+/*.firstname-lastname .participant-image{
+  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
+  background-size: cover; }            
+*/
+
+/*.firstname-lastname .participant-image{
+  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
+  background-size: cover; }            
+*/
+
 
 .setting img {
   width: 100%; }
