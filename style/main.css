@@ -126,7 +126,7 @@ body {
   /*color: #27ae60;*/
   color: #34495e;
   /*font-family: "museo-sans", sans-serif;*/
-  font-family: "proxima-nova-alt";
+  font-family: 'Montserrat', sans-serif;
   font-weight: 300;
   line-height: 2rem; }
   @media only screen and (min-width: 960px) {
@@ -166,11 +166,11 @@ section {
     float: left; } }
 
 .title-col {
-  margin-bottom: 4rem; }
+  margin: 2rem 0; }
   @media only screen and (min-width: 960px) {
     .title-col {
       width: 56rem;
-      margin: 0 auto 8rem; } }
+      margin: 0 auto 4rem; } }
   @media only screen and (min-width: 1100px) {
     .title-col {
       width: 38rem; } }
@@ -227,6 +227,12 @@ header {
   text-align: center; 
 }
 
+.coc-date-location-wrap p {
+  padding-top: 8rem;
+  text-align: center; 
+}
+
+
 p.byline-other {
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
@@ -270,7 +276,8 @@ p.byline-other {
   font-weight: 700;
   font-size: 400%;
   width: 20rem;
-  margin: 0rem auto 2rem; }
+  margin: 0rem auto 2rem;
+  padding: 2rem 0 0 0;}
   @media only screen and (min-width: 700px) {
     .byline {
       width: 100%; } }
@@ -283,6 +290,7 @@ p.byline-other {
 .byline-italic {
   font-style: italic;
   font-size: 110%;
+  padding: 1rem 0;
 }
 
 .byline-other {
@@ -390,7 +398,7 @@ p.byline-other {
 
 .coc-wrap {
   width: 85%;
-  font-family: "proxima-nova-alt";
+  font-family: 'Montserrat', sans-serif;
   color: #34495e;
   font-size: 110%;
   line-height: 2em;
@@ -424,7 +432,7 @@ font-weight: 300;
 
 .coc-wrap ul {
 list-style: square outside none;
-font-family: "proxima-nova-alt",sans-serif;
+font-family: 'Montserrat', sans-serif;
 font-style: normal;
 font-weight: 300;
 margin-left: 10px;
@@ -441,9 +449,9 @@ margin-right: 10px;
 }
 
 .imp-stuff {
-font-family: "proxima-nova-alt",sans-serif;
+font-family: 'Montserrat', sans-serif;
 font-style: normal;
-font-size: 128%;
+font-size: 100%;
 font-weight: 700;
 /*color: #c0392b;*/
 }
@@ -528,7 +536,9 @@ font-weight: 700;
   padding: 4rem 0; }
   @media only screen and (min-width: 1100px) {
     .apply-wrap {
-      margin: 10rem auto; } }
+        margin-top: 4rem;
+        margin-bottom: 10rem;
+    }
 
 .apply-wrap .participant-abstract a a:visited {
   color: #e74c3c;
@@ -540,6 +550,11 @@ font-weight: 700;
 
 .further-col img {
   margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.further-col p {
+  margin-top: 1rem;
   margin-bottom: 5px;
 }
 /*end applications*/
@@ -562,10 +577,33 @@ Drop the image in the participants folder and link to either the png or jpg vers
   background: url("../images/participants/jessie-roberts.jpg") no-repeat;
   background-size: cover; }            
 
+.carson-sievert .participant-image{
+  background: url("../images/participants/carson-sievert.jpg") no-repeat;
+  background-size: cover; }            
 
+.miles-mcbain .participant-image{
+  background: url("../images/participants/miles-mcbain.jpg") no-repeat;
+  background-size: cover; }            
+
+
+/*.jessie-roberts .participant-image{
+  background: url("../images/participants/jessie-roberts.jpg") no-repeat;
+  background-size: cover; }            
+*/
+
+
+/*.jessie-roberts .participant-image{
+  background: url("../images/participants/jessie-roberts.jpg") no-repeat;
+  background-size: cover; }            
+*/
 
 .setting img {
   width: 100%; }
+
+.schedule-wrap{
+    margin-top: 0;
+    margin-bottom:0;
+    padding: 2rem 0;}
 
 .schedule-wrap .further-col {
   width: 100%;
@@ -862,11 +900,10 @@ Drop the image in the participants folder and link to either the png or jpg vers
     height: 100%; } }
 @media only screen and (min-width: 700px) {
   .sponsors {
+    padding-top: 2rem;
     margin-bottom: 6.5rem; } }
 
 .sponsors h2 {
-  font-size: 120%;
-  font-weight: 600;
   margin-bottom: 10px;
   margin-top: 10px;
   font-family: 'Montserrat', sans-serif;
@@ -937,7 +974,7 @@ footer {
 }
 
 .links .further-col {
-  padding-top: 6rem; }
+  padding-top: 2rem; }
 
 .links li {
   float: left;
