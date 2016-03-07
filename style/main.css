@@ -126,7 +126,7 @@ body {
   /*color: #27ae60;*/
   color: #34495e;
   /*font-family: "museo-sans", sans-serif;*/
-  font-family: "proxima-nova-alt";
+  font-family: 'Montserrat', sans-serif;
   font-weight: 300;
   line-height: 2rem; }
   @media only screen and (min-width: 960px) {
@@ -226,6 +226,12 @@ header {
 .date-location-wrap p {
   text-align: center; 
 }
+
+.coc-date-location-wrap p {
+  padding-top: 8rem;
+  text-align: center; 
+}
+
 
 p.byline-other {
     font-family: 'Montserrat', sans-serif;
@@ -392,7 +398,7 @@ p.byline-other {
 
 .coc-wrap {
   width: 85%;
-  font-family: "proxima-nova-alt";
+  font-family: 'Montserrat', sans-serif;
   color: #34495e;
   font-size: 110%;
   line-height: 2em;
@@ -426,7 +432,7 @@ font-weight: 300;
 
 .coc-wrap ul {
 list-style: square outside none;
-font-family: "proxima-nova-alt",sans-serif;
+font-family: 'Montserrat', sans-serif;
 font-style: normal;
 font-weight: 300;
 margin-left: 10px;
@@ -443,9 +449,9 @@ margin-right: 10px;
 }
 
 .imp-stuff {
-font-family: "proxima-nova-alt",sans-serif;
+font-family: 'Montserrat', sans-serif;
 font-style: normal;
-font-size: 128%;
+font-size: 100%;
 font-weight: 700;
 /*color: #c0392b;*/
 }
@@ -530,7 +536,9 @@ font-weight: 700;
   padding: 4rem 0; }
   @media only screen and (min-width: 1100px) {
     .apply-wrap {
-      margin: 10rem auto; } }
+        margin-top: 4rem;
+        margin-bottom: 10rem;
+    }
 
 .apply-wrap .participant-abstract a a:visited {
   color: #e74c3c;
