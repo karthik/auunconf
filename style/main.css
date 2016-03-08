@@ -524,42 +524,6 @@ font-weight: 700;
       font-size: 95%;
       color: #3e5771;*/
       margin-top: 2rem; } }
-
-/*end participants*/
-
-/*Begin applications*/
-
-.apply-wrap {
-  width: 100%;
-  color: #fff;
-  background: #2c3e50;
-  padding: 4rem 0; }
-  @media only screen and (min-width: 1100px) {
-    .apply-wrap {
-        margin-top: 4rem;
-        margin-bottom: 10rem;
-    }
-
-.apply-wrap .participant-abstract a a:visited {
-  color: #e74c3c;
-}
-
-.apply-wrap .further-col a {
-  color: #f1c40f
-}
-
-.further-col img {
-  margin-top: 20px;
-  margin-bottom: 5px;
-}
-
-.further-col p {
-  margin-top: 1rem;
-  margin-bottom: 5px;
-}
-/*end applications*/
-
-
 /*These are all the participants*/
 /*To add new participants, create a class like the ones below.
 Use .firstname-lastname
@@ -645,6 +609,39 @@ Drop the image in the participants folder and link to either the png or jpg vers
   background-size: cover; }            
 */
 
+/*end participants*/
+
+/*Begin applications*/
+
+.apply-wrap {
+  width: 100%;
+  color: #fff;
+  background: #2c3e50;
+  padding: 4rem 0; }
+  @media only screen and (min-width: 1100px) {
+    .apply-wrap {
+        margin-top: 4rem;
+        margin-bottom: 10rem;
+    }}
+
+.apply-wrap .participant-abstract a a:visited {
+  color: #e74c3c;
+}
+
+.apply-wrap .further-col a {
+  color: #f1c40f
+}
+
+.further-col img {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.further-col p {
+  margin-top: 1rem;
+  margin-bottom: 5px;
+}
+/*end applications*/
 
 .setting img {
   width: 100%; }
