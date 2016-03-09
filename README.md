@@ -12,7 +12,8 @@ Welcome to the repository for the Australian rOpenSci 2016 unconference.  rOpenS
 Event hashtag is `#auunconf2016`
 
 __Remote participants__ 
-For those interested in participating remotely, please email `auunconf at ropensci.org` for an invite to our chat room (but also just watch the repo for discussion happening in the issues).
+
+Those interested in participating but cannot attend can engage in discussions on the repo.
 
 ## Support  
 This meeting is made possible by generous support from some lovely people whose logos will appear here shortly.
