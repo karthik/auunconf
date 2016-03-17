@@ -653,6 +653,9 @@ Drop the image in the participants folder and link to either the png or jpg vers
   background: url("../images/participants/di-cook.jpg") no-repeat;
   background-size: cover; }            
 
+.petra-kuhnert .participant-image{
+  background: url("../images/participants/petra-kuhnert.jpg") no-repeat;
+  background-size: cover; } 
 
 /*.firstname-lastname .participant-image{
   background: url("../images/participants/firstname-lastname.jpg") no-repeat;
