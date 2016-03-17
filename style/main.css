@@ -657,10 +657,10 @@ Drop the image in the participants folder and link to either the png or jpg vers
   background: url("../images/participants/petra-kuhnert.JPG") no-repeat;
   background-size: cover; } 
 
-/*.firstname-lastname .participant-image{
-  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
+.dan-pagendam .participant-image{
+  background: url("../images/participants/dan-pagendam.jpg") no-repeat;
   background-size: cover; }            
-*/
+
 
 /*.firstname-lastname .participant-image{
   background: url("../images/participants/firstname-lastname.jpg") no-repeat;
