@@ -651,7 +651,11 @@ Drop the image in the participants folder and link to either the png or jpg vers
 
 .di-cook .participant-image{
   background: url("../images/participants/di-cook.jpg") no-repeat;
-  background-size: cover; }            
+  background-size: cover; }    
+  
+.kerrie-mengersen .participant-image{
+    background: url("../images/participants/kerrie-mengersen.jpg") no-repeat;
+    background-size: cover; }            
 
 
 /*.firstname-lastname .participant-image{
