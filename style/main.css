@@ -676,6 +676,21 @@ Drop the image in the participants folder and link to either the png or jpg vers
   background-size: cover; }            
 
 
+.matthew-watts .participant-image{
+  background: url("../images/participants/matthew-watts.png") no-repeat;
+  background-size: cover; }            
+
+
+.ruth-luscombe .participant-image{
+  background: url("../images/participants/ruth-luscombe.jpg") no-repeat;
+  background-size: cover; }            
+
+
+/*.firstname-lastname .participant-image{
+  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
+  background-size: cover; }            
+*/
+
 /*.firstname-lastname .participant-image{
   background: url("../images/participants/firstname-lastname.jpg") no-repeat;
   background-size: cover; }            
@@ -690,6 +705,24 @@ Drop the image in the participants folder and link to either the png or jpg vers
   background: url("../images/participants/firstname-lastname.jpg") no-repeat;
   background-size: cover; }            
 */
+
+/*.firstname-lastname .participant-image{
+  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
+  background-size: cover; }            
+*/
+
+/*.firstname-lastname .participant-image{
+  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
+  background-size: cover; }            
+*/
+
+/*.firstname-lastname .participant-image{
+  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
+  background-size: cover; }            
+*/
+
+
+
 
 /*end participants*/
 
