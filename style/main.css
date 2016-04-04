@@ -695,21 +695,19 @@ Drop the image in the participants folder and link to either the png or jpg vers
   background: url("../images/participants/adam-sparks.jpg") no-repeat;
   background-size: cover; }            
 
+.jonathan-carroll .participant-image{
+  background: url("../images/participants/jonathan-carroll.jpg") no-repeat;
+  background-size: cover; }
 
-/*.firstname-lastname .participant-image{
-  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
+.fang-zhou .participant-image{
+  background: url("../images/participants/fang-zhou.jpg") no-repeat;
   background-size: cover; }            
-*/
 
-/*.firstname-lastname .participant-image{
-  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
-  background-size: cover; }            
-*/
 
-/*.firstname-lastname .participant-image{
-  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
+.mark-cottman-fields .participant-image{
+  background: url("../images/participants/mark-cottman-fields.jpg") no-repeat;
   background-size: cover; }            
-*/
+
 
 /*.firstname-lastname .participant-image{
   background: url("../images/participants/firstname-lastname.jpg") no-repeat;
