@@ -734,10 +734,51 @@ Drop the image in the participants folder and link to either the png or jpg vers
   background-size: cover; }            
 
 
+.earo-wang .participant-image{
+  background: url("../images/participants/earo-wang.jpg") no-repeat;
+  background-size: cover; }            
+
+
+.suren-rathnayake .participant-image{
+  background: url("../images/participants/suren-rathnayake.jpg") no-repeat;
+  background-size: cover; }            
+
+
+.daniel-thomas .participant-image{
+  background: url("../images/participants/daniel-thomas.jpg") no-repeat;
+  background-size: cover; }            
+
+
+.michael-cheng .participant-image{
+  background: url("../images/participants/michael-cheng.jpg") no-repeat;
+  background-size: cover; }            
+
+
+.ebony-jones .participant-image{
+  background: url("../images/participants/ebony-jones.jpg") no-repeat;
+  background-size: cover; }            
+
+
 /*.firstname-lastname .participant-image{
   background: url("../images/participants/firstname-lastname.jpg") no-repeat;
   background-size: cover; }            
 */
+
+/*.firstname-lastname .participant-image{
+  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
+  background-size: cover; }            
+*/
+
+/*.firstname-lastname .participant-image{
+  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
+  background-size: cover; }            
+*/
+
+/*.firstname-lastname .participant-image{
+  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
+  background-size: cover; }            
+*/
+
 
 /*end participants*/
 
