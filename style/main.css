@@ -769,10 +769,10 @@ Drop the image in the participants folder and link to either the png or jpg vers
   background-size: cover; }            
 
 
-/*.firstname-lastname .participant-image{
-  background: url("../images/participants/firstname-lastname.jpg") no-repeat;
+.matt-kelly .participant-image{
+  background: url("../images/participants/matt-kelly.jpg") no-repeat;
   background-size: cover; }            
-*/
+
 
 /*.firstname-lastname .participant-image{
   background: url("../images/participants/firstname-lastname.jpg") no-repeat;
@@ -1266,4 +1266,34 @@ a.section-jump {
 .cd-top.cd-fade-out {
   /* if the user keeps scrolling down, the button is out of focus and becomes less visible */
   opacity: .5;
+}
+
+@media only screen and (min-width: 700px) {
+  .projects {
+    padding-top: 2rem;
+    margin-bottom: 6.5rem; } }
+
+.projects h2 {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+@media only screen and (min-width: 700px) {
+  .press {
+    padding-top: 2rem;
+    margin-bottom: 6.5rem; } }
+
+.press h2 {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.mailbutton {
+  background-color: #f1c40f;
+  display: inline-block;
+  padding: 0.5em;
+  text-decoration: none;
 }
