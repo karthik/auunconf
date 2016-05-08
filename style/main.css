@@ -1269,7 +1269,7 @@ a.section-jump {
 }
 
 @media only screen and (min-width: 700px) {
-  .projects {
+ .projects {
     padding-top: 2rem;
     margin-bottom: 6.5rem; } }
 
@@ -1281,7 +1281,7 @@ a.section-jump {
 
 
 @media only screen and (min-width: 700px) {
-  .press {
+ .press {
     padding-top: 2rem;
     margin-bottom: 6.5rem; } }
 
@@ -1296,4 +1296,4 @@ a.section-jump {
   display: inline-block;
   padding: 0.5em;
   text-decoration: none;
-}
+}}
